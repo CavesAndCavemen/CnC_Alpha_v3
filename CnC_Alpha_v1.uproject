@@ -2,15 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.17",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "CodeView",
-			"Enabled": true
-		},
-		{
-			"Name": "ShaderBits-GDC-Pack",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
